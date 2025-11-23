@@ -6,14 +6,7 @@ I want to learn new programming languages and applying them to real-world projec
 **Current Skills:**
 - Java
 
-Eventaully I want to dive into malware analysis, reverse engineering, and data recovery.
-
-I want to learn C++ to experiment with security development in the future.
-
-How so? :
- 
-- To analyze and reverse engineer malware
-- To recover and decrypt lost or maliciously encrypted data
+My future goals are into malware analysis, reverse engineering, and data recovery.
 
 When I’m not coding, I’m exploring the world through my camera, it is my way to find peace and inspiration in nature.
 
