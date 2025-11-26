@@ -5,8 +5,14 @@ I want to learn new programming languages and applying them to real-world projec
 
 **Current Skills:**
 - Java
+- Powershell
 
 My future goals are into malware analysis, reverse engineering, and data recovery.
+
+**Future Langauges**
+
+- GoLang
+- Bash
 
 When I’m not coding, I’m exploring the world through my camera, it is my way to find peace and inspiration in nature.
 
