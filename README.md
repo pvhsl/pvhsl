@@ -9,7 +9,7 @@ I want to learn new programming languages and applying them to real-world projec
 
 My future goals are into malware analysis, reverse engineering, and data recovery.
 
-**Future Langauges**
+**Future Langauges/Unix**
 
 - GoLang
 - Bash
