@@ -3,7 +3,7 @@
 I'm a Digital Forensics undergrad. My journey began with Lua, then Python for web development, and deepening my skills in Java. 
 I want to learn penetration testing and find and report vulnerabilites over time.
 
-My future goals are into malware analysis, reverse engineering, and data recovery.
+My future goals are into network security and digital forensics analysis
 
 **Future Langauges**
 
