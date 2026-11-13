@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Preston | @pvhsl
 
-I'm a Digital Forensics undergrad. My journey began with Lua, then Python for web development, and transitioning into Java.
+I'm a Cybersecurity & Digital Forensics undergrad. My journey began with Lua, then Python for web development, and transitioning into Java.
 
 My future goals are into network consulting or network forensics.
 
